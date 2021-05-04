@@ -1,4 +1,4 @@
-# Project - veccination-21
+# Project - vaccination-21
 > ... 프로젝트 입니다.  <br>
 > 추후 업데이트되는 내용을 참고해주세요 :)
 
