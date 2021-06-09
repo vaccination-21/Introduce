@@ -1,5 +1,5 @@
 # 👭 WAW (We Are the World!!, Where Are We now!!) 프로젝트
-네이버 클라우드 AI 플랫폼을 활용한 팀 협업 프로젝트 [네이버클라이드 홈페이지](https://www.ncloud.com/)
+네이버 클라우드 AI 플랫폼을 활용한 팀 협업 프로젝트 [네이버클라우드 홈페이지](https://www.ncloud.com/)
 
 ## 1. 팀명: 소셜네트워크 팀
 
